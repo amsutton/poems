@@ -1,3 +1,1 @@
 Roses are red, violets are blue.
-What is GNU?
-Look a change! This doesn't rhyme.
